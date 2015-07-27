@@ -1,0 +1,12 @@
+   NL%TIMEUNIT = 'd'      ! Time units of TIMMAX: 's','m','h','d'
+   NL%TIMMAX   = 3.       ! Ending time of this model run
+
+ !--------------------------------------------------------------------------
+ ! Start of simulation (when model time counter TIME8 = 0.)
+ !--------------------------------------------------------------------------
+
+   NL%ITIME1   = 1200     ! UTC
+   NL%IDATE1   = 21       ! Day
+   NL%IMONTH1  = 06       ! Month
+   NL%IYEAR1   = 2008     ! Year
+
